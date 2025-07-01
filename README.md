@@ -76,4 +76,4 @@ Proyek ini merupakan implementasi **Kecerdasan Buatan (Artificial Intelligence)*
 - Sandag, G. A., et al. (2021). *Identifikasi Foto Fashion dengan CNN*.
 
 ## 📂 Lampiran
-- Google Colab link: [Klik di sini](https://drive.google.com/drive/folders/1BQGb9HO28L8xQjlbc3qbU3OimROfzWVN?usp=sharing)
+- Link Google Drive Dataset: [Klik di sini](https://drive.google.com/drive/folders/1cozzcdyttcM0uSr1gKZNU-qVH1Y3mlzi?usp=sharing)
